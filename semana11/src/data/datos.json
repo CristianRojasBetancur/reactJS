@@ -1,0 +1,42 @@
+[
+    {
+        "idPersona": 0,
+        "nombre": "Diego Gimenez",
+        "edad": 40,
+        "genero": "Masculino",
+        "totalPagar": 200000,
+        "fechaDeMensualidad": "2018-02"
+    },
+    {
+        "idPersona": 1,
+        "nombre": "Carolina Betancur",
+        "edad": 30,
+        "genero": "Femenino",
+        "totalPagar": 1500000,
+        "fechaDeMensualidad": "2018-02"
+    },
+    {
+        "idPersona": 2,
+        "nombre": "Diego Gimenez",
+        "edad": 40,
+        "genero": "Masculino",
+        "totalPagar": 200.000,
+        "fechaDeMensualidad": "2019-10"
+    },
+    {
+        "idPersona": 3,
+        "nombre": "Armando Pinto",
+        "edad": 41,
+        "genero": "Masculino",
+        "totalPagar": 700000,
+        "fechaDeMensualidad": "2020-01"
+    },
+    {
+        "idPersona": 4,
+        "nombre": "Valerie Venedeti",
+        "edad": 20,
+        "genero": "Femenino",
+        "totalPagar": 900000,
+        "fechaDeMensualidad": "2020-01"
+    }
+]
